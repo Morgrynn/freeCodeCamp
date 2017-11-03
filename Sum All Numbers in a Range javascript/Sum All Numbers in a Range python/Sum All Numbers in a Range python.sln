@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sum All Numbers in a Range python", "Sum All Numbers in a Range python\Sum All Numbers in a Range python.pyproj", "{7D85E140-42FC-4C19-9D07-54298B3EB746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D85E140-42FC-4C19-9D07-54298B3EB746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D85E140-42FC-4C19-9D07-54298B3EB746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5E8D02-41C6-4FC9-A7F4-392925B1E046}
+	EndGlobalSection
+EndGlobal
